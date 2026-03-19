@@ -12,4 +12,8 @@ Steps to do after running the program
 4. It will then show you your chosen results and if it is within 2-4 it will show you the k-map simplification too and verify if it is pass or not
 
 
+Youtube link to demonstration:
+
+https://youtu.be/LXZlWoD0VCA
+
 That should be all
